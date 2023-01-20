@@ -6,7 +6,7 @@ const scarf = document.getElementById('scarf')
 const mittens = document.getElementById('mittens')
 const buttons = document.getElementById('buttons')
 
-const colors = ['red', 'green', 'blue', 'orange', 'purple', 'brown', 'gray', 'black']
+const colors = ['red', 'green', 'blue', 'orange', 'purple',　'pink', 'brown', 'gray', 'black']
 
 addEventListener('click', () => {
   console.log('window was clicked')
